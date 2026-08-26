@@ -1,7 +1,7 @@
 {
-    "version": "26.8.26",
-    "setup_file": "ALMAS_Setup_v26.8.26.exe",
+    "version": "26.8.27",
+    "setup_file": "ALMAS_Setup_v26.8.27.exe",
     "min_supported": "26.0.0",
-    "download_url": "https://github.com/Yasser9888/almas-updates/releases/download/v26.8.26/ALMAS_Setup_v26.8.26.exe",
+    "download_url": "https://github.com/Yasser9888/almas-updates/releases/download/v26.8.27/ALMAS_Setup_v26.8.27.exe",
     "release_notes": "- چاکسازی و باشترکردنی گشتی"
 }

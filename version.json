@@ -1,7 +1,7 @@
 {
-    "version": "26.8.28",
-    "setup_file": "ALMAS_Setup_v26.8.28.exe",
+    "version": "26.8.30",
+    "setup_file": "ALMAS_Setup_v26.8.30.exe",
     "min_supported": "26.0.0",
-    "download_url": "https://github.com/Yasser9888/almas-updates/releases/download/v26.8.28/ALMAS_Setup_v26.8.28.exe",
-    "release_notes": "jded"
+    "download_url": "https://github.com/Yasser9888/almas-updates/releases/download/v26.8.30/ALMAS_Setup_v26.8.30.exe",
+    "release_notes": "Fixed All Problem..."
 }

@@ -1,7 +1,7 @@
 {
-    "version": "26.9.13",
-    "setup_file": "ALMAS_Setup_v26.9.13.exe",
+    "version": "26.9.14",
+    "setup_file": "ALMAS_Setup_v26.9.14.exe",
     "min_supported": "26.0.0",
-    "download_url": "https://github.com/Yasser9888/almas-updates/releases/download/v26.9.13/ALMAS_Setup_v26.9.13.exe",
-    "release_notes": "New Update....!"
+    "download_url": "https://github.com/Yasser9888/almas-updates/releases/download/v26.9.14/ALMAS_Setup_v26.9.14.exe",
+    "release_notes": "Update...!"
 }

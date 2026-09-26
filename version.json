@@ -1,7 +1,7 @@
 {
-    "version": "26.9.23",
-    "setup_file": "ALMAS_Setup_v26.9.23.exe",
+    "version": "26.9.26",
+    "setup_file": "ALMAS_Setup_v26.9.26.exe",
     "min_supported": "26.0.0",
-    "download_url": "https://github.com/Yasser9888/almas-updates/releases/download/v26.9.23/ALMAS_Setup_v26.9.23.exe",
-    "release_notes": "Fainal Update"
+    "download_url": "https://github.com/Yasser9888/almas-updates/releases/download/v26.9.26/ALMAS_Setup_v26.9.26.exe",
+    "release_notes": "fixed issus..."
 }
